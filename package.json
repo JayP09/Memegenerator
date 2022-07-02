@@ -1,5 +1,5 @@
 {
-  "name": "5_meme-generator",
+  "name": "meme-generator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
